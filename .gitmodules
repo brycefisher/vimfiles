@@ -19,3 +19,6 @@
 [submodule "bundle/vim-shell"]
 	path = bundle/vim-shell
 	url = http://github.com/xolox/vim-shell
+[submodule "bundle/vim-xdebug"]
+	path = bundle/vim-xdebug
+	url = https://github.com/joonty/vim-xdebug
