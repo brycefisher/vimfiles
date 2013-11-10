@@ -13,3 +13,9 @@
 [submodule "bundle/gundo"]
 	path = bundle/gundo
 	url = https://github.com/sjl/gundo.vim.git
+[submodule "bundle/vim-misc"]
+	path = bundle/vim-misc
+	url = http://github.com/xolox/vim-misc
+[submodule "bundle/vim-shell"]
+	path = bundle/vim-shell
+	url = http://github.com/xolox/vim-shell
