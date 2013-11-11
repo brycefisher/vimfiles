@@ -11,3 +11,14 @@ snippet debif Creates a conditional debug block
 		exit($2);
 	}
 	//DEBUG
+
+snippet funct Creates a Drupally function
+	/**
+	 * Helper function that ${1:...}
+	 *
+	 * @param ${2:obj} ${3:$node} - ${4:A node object}
+	 * @return ${5:str}
+	 */
+	function ${6:myfunction}($3) {
+		${7://Write implementation}
+	}
